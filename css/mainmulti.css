@@ -1,0 +1,30 @@
+#uploadbox
+{
+	    width: 430px;
+    height: 320px;
+    background-color:#B4DEF3;
+    margin: 0px auto;
+    border-radius: 4px;
+    padding: 10px;
+
+}
+.upld
+{
+	    margin: 20px 80px;
+    padding: 5px;
+
+}
+.b 
+{
+	background-color: #15537a;
+    width: 100px;
+    border: 0px;
+    color: white;
+    padding: 4px;
+    border-radius: 2px;
+    margin: 0px 50px;
+}
+.b:hover
+{
+	 background-color:#258329;
+}
